@@ -1,0 +1,36 @@
+.news-wrapper {
+    background-image: url(img/banner3.jpg);
+    padding: 25px 0;
+}
+
+.news-item a {
+    background: white;
+    border-bottom: 8px solid #f2c100;
+    border-radius: 4px;
+    height: 141px;
+    padding-right: 8px;
+    display: flex;
+    color: #000;
+    margin-bottom: 15px;
+}
+
+.news-img {
+    height: 100%;
+    width: 350px;
+    overflow: hidden;
+    margin-right: 15px;
+}
+
+.news-img img {
+    width: 100%;
+    height: 100%;
+}
+
+.news-info p {
+    font-size: .9rem;
+}
+.news-info h3 {
+    font-size: 1rem;
+    font-weight: 700;
+    padding-top: 10px;
+}

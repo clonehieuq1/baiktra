@@ -1,0 +1,12 @@
+.carousel-caption.feed {
+    position: initial;
+    z-index: 10;
+    padding-top: 20px;
+    color: #000;
+    text-align: center;
+}
+
+.carousel-caption.feed p {
+    margin: 0;
+    padding: 0;
+}

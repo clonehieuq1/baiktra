@@ -1,0 +1,23 @@
+.footer {
+    background-image: url(img/vtvt.jpg);
+    color: #fff;
+    padding-top: 20px;
+}
+
+.footer-header {
+    color: #ffcc00;
+    font-weight: 900;
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+}
+
+.copyright {
+    background: #ffcc00;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.ft-content iframe {
+    width: 100%;
+}

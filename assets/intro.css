@@ -1,0 +1,65 @@
+.vi-img img {
+    height: 100%;
+}
+.vi-img {
+    position: relative;
+}
+.vi-img div {
+    position: relative;
+    height: auto;
+    overflow: hidden;
+    /* padding-top: 100%; */
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 300px;
+}
+
+.intro-wrapper {
+    padding: 35px 0;
+}
+
+h3.vi-title {
+    font-weight: 900;
+}
+
+a.btn.btn-vi {
+    position: relative;
+    display: inline-block;
+    background-color: transparent;
+    text-transform: uppercase;
+    font-size: .97em;
+    letter-spacing: .03em;
+    -ms-touch-action: none;
+    touch-action: none;
+    cursor: pointer;
+    font-weight: bolder;
+    text-align: center;
+    color: currentColor;
+    text-decoration: none;
+    border: 1px solid transparent;
+    vertical-align: middle;
+    border-radius: 0;
+    margin-top: 0;
+    margin-right: 1em;
+    text-shadow: none;
+    line-height: 2.4em;
+    min-height: 2.5em;
+    padding: 0 1.2em;
+    max-width: 100%;
+    transition: transform .3s, border .3s, background .3s, box-shadow .3s, opacity .3s, color .3s;
+    text-rendering: optimizeLegibility;
+    box-sizing: border-box;
+    background: red;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #fff;
+    border-radius: 5px;
+}
+
+a.btn.btn-vi.btn-yellow {
+    background-color: #F2C100;
+}
+
+a.btn.btn-vi.btn-blue {
+    background-color: #0072E5;
+}
